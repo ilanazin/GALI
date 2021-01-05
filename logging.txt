@@ -1,0 +1,3 @@
+INFO 2020-12-29 19:50:03,190 - Added Employee id: 1 and employee name: w  to file path C:\Ilana\Python\Final_Project\Employee.csv
+INFO 2020-12-29 19:50:03,190 - Added Employee id: 2 and employee name: s  to file path C:\Ilana\Python\Final_Project\Employee.csv
+INFO 2020-12-29 19:50:03,190 - Added Employee id: 3 and employee name: s  to file path C:\Ilana\Python\Final_Project\Employee.csv

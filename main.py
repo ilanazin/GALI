@@ -246,31 +246,6 @@ def generate_managers_report(employee_file_path, managers_path):
 
 
 def main():
-    # employee_one = employee.Employee(
-    # "Jane",
-    # "555-456-0987",
-    # 45,
-    # "jun"
-    # )
-    # print(employee_one)
-
-    # employee_two=employee.Manager(
-    # "Kate",
-    # "666-456-0987",
-    # 56,
-    # "man"
-    # )
-    # print(employee_two)
-
-    # employee_three = employee.Senior(
-    # "Bob",
-    # "777-456-0987",
-    # 35,
-    # "sen"
-    # )
-
-    # print(employee_three)
-
     employee_file_path, employee_data_file_path, employee_delete_file_path, attendance_file_path, attendance_report_path, attendance_month_path, attendance_late_path, attendance_given_date_path, managers_path, users_file_path, log_file = utils.create_files()
 
     end = 0
